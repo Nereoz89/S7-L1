@@ -64,4 +64,5 @@ document.getElementById("btn").addEventListener("click", function (e) {
       console.log("Hanno lo stesso proprietario");
     }
   }
+  document.getElementById("petForm").reset();
 });
